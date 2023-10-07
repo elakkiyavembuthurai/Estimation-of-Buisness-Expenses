@@ -1,8 +1,8 @@
 # Estimation-of-Buisness-Expenses
 project sumbition
 
-Dashboard public link-file:///E:/Estimation%20of%20Buisness%20Expenses/Story%20&%20Dashboard/Dashboard%202.pdf
+Dashboard public link-https://public.tableau.com/views/Book1_16966073184140/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link
 
-story public link-file:///E:/Estimation%20of%20Buisness%20Expenses/Story%20&%20Dashboard/Book.1.pdf
+story public link-https://public.tableau.com/views/Book_1_16966902938620/Story1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 video demonstrationlink-https://youtu.be/7MET9YT-2Js?si=IdL2-GWb2LeTf6Gb
